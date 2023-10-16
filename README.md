@@ -20,6 +20,8 @@ I finished number of courses on these topics, including:
 
 Currently I'm open for any project collaboration and job suggestions, including internship.
 
+[You can find my CV here](https://drive.google.com/file/d/1SwoUGnMlWQ6DLODAySllg-FWfbNYmHcz/view?usp=drive_link)
+
 Thank you for your interest!
 
 <!--
