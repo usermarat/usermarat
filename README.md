@@ -22,11 +22,11 @@ Currently I'm open for any project collaboration and job suggestions, including 
 
 [You can find my CV here](https://drive.google.com/file/d/1SwoUGnMlWQ6DLODAySllg-FWfbNYmHcz/view?usp=drive_link)
 
-Thank you for your interest!
+Thank you for your interest! 
 
 <!--
 **usermarat/usermarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
